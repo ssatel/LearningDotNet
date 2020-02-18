@@ -1,0 +1,11 @@
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\bin\Debug\netcoreapp3.1\TesteTipos.exe
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\bin\Debug\netcoreapp3.1\TesteTipos.deps.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\bin\Debug\netcoreapp3.1\TesteTipos.runtimeconfig.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\bin\Debug\netcoreapp3.1\TesteTipos.runtimeconfig.dev.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\bin\Debug\netcoreapp3.1\TesteTipos.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\bin\Debug\netcoreapp3.1\TesteTipos.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\obj\Debug\netcoreapp3.1\TesteTipos.csprojAssemblyReference.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\obj\Debug\netcoreapp3.1\TesteTipos.AssemblyInfoInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\obj\Debug\netcoreapp3.1\TesteTipos.AssemblyInfo.cs
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\obj\Debug\netcoreapp3.1\TesteTipos.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\TesteTipos\obj\Debug\netcoreapp3.1\TesteTipos.pdb
