@@ -1,0 +1,11 @@
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\bin\Debug\netcoreapp3.1\TesteHashSet.exe
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\bin\Debug\netcoreapp3.1\TesteHashSet.deps.json
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\bin\Debug\netcoreapp3.1\TesteHashSet.runtimeconfig.json
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\bin\Debug\netcoreapp3.1\TesteHashSet.runtimeconfig.dev.json
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\bin\Debug\netcoreapp3.1\TesteHashSet.dll
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\bin\Debug\netcoreapp3.1\TesteHashSet.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\obj\Debug\netcoreapp3.1\TesteHashSet.csprojAssemblyReference.cache
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\obj\Debug\netcoreapp3.1\TesteHashSet.AssemblyInfoInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\obj\Debug\netcoreapp3.1\TesteHashSet.AssemblyInfo.cs
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\obj\Debug\netcoreapp3.1\TesteHashSet.dll
+C:\temp\repositorio\gitHub\CursoDotNet\Conjuntos\TesteHashSet\TesteHashSet\obj\Debug\netcoreapp3.1\TesteHashSet.pdb

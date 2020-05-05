@@ -1,0 +1,11 @@
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\bin\Debug\netcoreapp3.1\stringtestes.exe
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\bin\Debug\netcoreapp3.1\stringtestes.deps.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\bin\Debug\netcoreapp3.1\stringtestes.runtimeconfig.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\bin\Debug\netcoreapp3.1\stringtestes.runtimeconfig.dev.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\bin\Debug\netcoreapp3.1\stringtestes.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\bin\Debug\netcoreapp3.1\stringtestes.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\obj\Debug\netcoreapp3.1\stringtestes.csprojAssemblyReference.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\obj\Debug\netcoreapp3.1\stringtestes.AssemblyInfoInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\obj\Debug\netcoreapp3.1\stringtestes.AssemblyInfo.cs
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\obj\Debug\netcoreapp3.1\stringtestes.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\stringtestes\stringtestes\obj\Debug\netcoreapp3.1\stringtestes.pdb

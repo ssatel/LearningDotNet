@@ -1,0 +1,10 @@
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\bin\Debug\netcoreapp3.1\testeTimeSpan.exe
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\bin\Debug\netcoreapp3.1\testeTimeSpan.deps.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\bin\Debug\netcoreapp3.1\testeTimeSpan.runtimeconfig.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\bin\Debug\netcoreapp3.1\testeTimeSpan.runtimeconfig.dev.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\bin\Debug\netcoreapp3.1\testeTimeSpan.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\bin\Debug\netcoreapp3.1\testeTimeSpan.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\obj\Debug\netcoreapp3.1\testeTimeSpan.AssemblyInfoInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\obj\Debug\netcoreapp3.1\testeTimeSpan.AssemblyInfo.cs
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\obj\Debug\netcoreapp3.1\testeTimeSpan.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeTimeSpan\testeTimeSpan\obj\Debug\netcoreapp3.1\testeTimeSpan.pdb

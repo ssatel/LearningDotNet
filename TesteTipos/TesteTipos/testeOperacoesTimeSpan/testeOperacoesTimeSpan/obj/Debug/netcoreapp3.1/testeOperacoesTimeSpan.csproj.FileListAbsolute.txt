@@ -1,0 +1,11 @@
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\bin\Debug\netcoreapp3.1\testeOperacoesTimeSpan.exe
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\bin\Debug\netcoreapp3.1\testeOperacoesTimeSpan.deps.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\bin\Debug\netcoreapp3.1\testeOperacoesTimeSpan.runtimeconfig.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\bin\Debug\netcoreapp3.1\testeOperacoesTimeSpan.runtimeconfig.dev.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\bin\Debug\netcoreapp3.1\testeOperacoesTimeSpan.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\bin\Debug\netcoreapp3.1\testeOperacoesTimeSpan.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\obj\Debug\netcoreapp3.1\testeOperacoesTimeSpan.csprojAssemblyReference.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\obj\Debug\netcoreapp3.1\testeOperacoesTimeSpan.AssemblyInfoInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\obj\Debug\netcoreapp3.1\testeOperacoesTimeSpan.AssemblyInfo.cs
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\obj\Debug\netcoreapp3.1\testeOperacoesTimeSpan.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testeOperacoesTimeSpan\testeOperacoesTimeSpan\obj\Debug\netcoreapp3.1\testeOperacoesTimeSpan.pdb

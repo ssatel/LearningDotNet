@@ -1,0 +1,11 @@
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\bin\Debug\netcoreapp3.1\testesOperacoesDateTime.exe
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\bin\Debug\netcoreapp3.1\testesOperacoesDateTime.deps.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\bin\Debug\netcoreapp3.1\testesOperacoesDateTime.runtimeconfig.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\bin\Debug\netcoreapp3.1\testesOperacoesDateTime.runtimeconfig.dev.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\bin\Debug\netcoreapp3.1\testesOperacoesDateTime.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\bin\Debug\netcoreapp3.1\testesOperacoesDateTime.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\obj\Debug\netcoreapp3.1\testesOperacoesDateTime.csprojAssemblyReference.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\obj\Debug\netcoreapp3.1\testesOperacoesDateTime.AssemblyInfoInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\obj\Debug\netcoreapp3.1\testesOperacoesDateTime.AssemblyInfo.cs
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\obj\Debug\netcoreapp3.1\testesOperacoesDateTime.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\testesOperacoesDateTime\testesOperacoesDateTime\obj\Debug\netcoreapp3.1\testesOperacoesDateTime.pdb

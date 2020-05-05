@@ -1,0 +1,10 @@
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\bin\Debug\netcoreapp3.1\ternaria.exe
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\bin\Debug\netcoreapp3.1\ternaria.deps.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\bin\Debug\netcoreapp3.1\ternaria.runtimeconfig.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\bin\Debug\netcoreapp3.1\ternaria.runtimeconfig.dev.json
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\bin\Debug\netcoreapp3.1\ternaria.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\bin\Debug\netcoreapp3.1\ternaria.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\obj\Debug\netcoreapp3.1\ternaria.AssemblyInfoInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\obj\Debug\netcoreapp3.1\ternaria.AssemblyInfo.cs
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\obj\Debug\netcoreapp3.1\ternaria.dll
+C:\temp\repositorio\gitHub\CursoDotNet\TesteTipos\TesteTipos\ternaria\ternaria\obj\Debug\netcoreapp3.1\ternaria.pdb
