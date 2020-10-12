@@ -1,0 +1,11 @@
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\obj\Debug\netcoreapp3.1\Funcoesaual30.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\obj\Debug\netcoreapp3.1\Funcoesaual30.AssemblyInfoInputs.cache
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\obj\Debug\netcoreapp3.1\Funcoesaual30.AssemblyInfo.cs
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\bin\Debug\netcoreapp3.1\Funcoesaual30.exe
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\bin\Debug\netcoreapp3.1\Funcoesaual30.deps.json
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\bin\Debug\netcoreapp3.1\Funcoesaual30.runtimeconfig.json
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\bin\Debug\netcoreapp3.1\Funcoesaual30.runtimeconfig.dev.json
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\bin\Debug\netcoreapp3.1\Funcoesaual30.dll
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\bin\Debug\netcoreapp3.1\Funcoesaual30.pdb
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\obj\Debug\netcoreapp3.1\Funcoesaual30.dll
+C:\Users\saulo.satel\source\repos\FuncoesaAula30\Funcoesaual30\obj\Debug\netcoreapp3.1\Funcoesaual30.pdb

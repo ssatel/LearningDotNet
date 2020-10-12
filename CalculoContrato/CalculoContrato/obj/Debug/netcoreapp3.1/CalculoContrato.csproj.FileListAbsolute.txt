@@ -1,0 +1,13 @@
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\bin\Debug\netcoreapp3.1\CalculoContrato.exe
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\bin\Debug\netcoreapp3.1\CalculoContrato.deps.json
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\bin\Debug\netcoreapp3.1\CalculoContrato.runtimeconfig.json
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\bin\Debug\netcoreapp3.1\CalculoContrato.runtimeconfig.dev.json
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\bin\Debug\netcoreapp3.1\CalculoContrato.dll
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\bin\Debug\netcoreapp3.1\CalculoContrato.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\obj\Debug\netcoreapp3.1\CalculoContrato.csprojAssemblyReference.cache
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\obj\Debug\netcoreapp3.1\CalculoContrato.AssemblyInfoInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\obj\Debug\netcoreapp3.1\CalculoContrato.AssemblyInfo.cs
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\obj\Debug\netcoreapp3.1\CalculoContrato.csproj.CoreCompileInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\obj\Debug\netcoreapp3.1\CalculoContrato.dll
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\obj\Debug\netcoreapp3.1\CalculoContrato.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\CalculoContrato\CalculoContrato\obj\Debug\netcoreapp3.1\CalculoContrato.genruntimeconfig.cache

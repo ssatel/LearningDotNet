@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Funcoesaual30/1.0.0": {
+        "runtime": {
+          "Funcoesaual30.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funcoesaual30/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

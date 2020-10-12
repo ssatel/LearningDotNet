@@ -1,0 +1,13 @@
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.exe
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.deps.json
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.runtimeconfig.json
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.runtimeconfig.dev.json
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.dll
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\bin\Debug\netcoreapp3.1\ListaFuncionarios.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.csprojAssemblyReference.cache
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.AssemblyInfoInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.AssemblyInfo.cs
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.csproj.CoreCompileInputs.cache
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.dll
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.pdb
+C:\temp\repositorio\gitHub\CursoDotNet\Listas\ListaFuncionarios\ListaFuncionarios\obj\Debug\netcoreapp3.1\ListaFuncionarios.genruntimeconfig.cache

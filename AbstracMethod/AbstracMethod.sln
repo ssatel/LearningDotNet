@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstracMethod", "AbstracMethod\AbstracMethod.csproj", "{AEA08E3D-1FFE-42B5-BE39-8B02204A10AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA08E3D-1FFE-42B5-BE39-8B02204A10AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA08E3D-1FFE-42B5-BE39-8B02204A10AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA08E3D-1FFE-42B5-BE39-8B02204A10AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA08E3D-1FFE-42B5-BE39-8B02204A10AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578A748B-DF01-4D97-AA83-DC169E1B3DF0}
+	EndGlobalSection
+EndGlobal
