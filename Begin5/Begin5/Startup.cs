@@ -37,10 +37,10 @@ namespace Begin5
 
             var configuration = new MapperConfiguration(cfg => 
             { 
-                cfg.CreateMap<Usuario, UsuarioResponseDTO>();
-                cfg.CreateMap<UsuarioResponseDTO, Usuario>();
-                cfg.CreateMap<Conta, ContaRequestDTO>();
-                cfg.CreateMap<ContaRequestDTO, Conta>();
+                cfg.CreateMap<Usuario, UsuarioResponseDTO>().ReverseMap();
+                cfg.CreateMap<UsuarioRequestDTO, UsuarioResponseDTO>().ReverseMap();
+                cfg.CreateMap<Conta, ContaRequestDTO>().ReverseMap();
+                
             });
 
             IMapper mapper = configuration.CreateMapper();

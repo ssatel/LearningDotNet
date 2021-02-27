@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Begin5.Infra;
 using Begin5.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -37,7 +38,7 @@ namespace Begin5.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "Ja existe um usuario com este UserID");
             }
 
-            using (var context = new UsuarioContext())
+            using (var context = new Context())
             {
                 var usuarioRetorno = _mapper.Map<UsuarioResponseDTO>(usuario);
 
@@ -61,7 +62,7 @@ namespace Begin5.Controllers
         {
             var usuariosLogados = new List<UsuarioResponseDTO>();
 
-            using (var context = new UsuarioContext())
+            using (var context = new Context())
             {
                 var listaUsuario = context.Usuario.ToList();
                 foreach (Usuario u in listaUsuario)
@@ -90,7 +91,7 @@ namespace Begin5.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "Este e-mail ja esta em uso");
             }
 
-            using (var context = new UsuarioContext()) 
+            using (var context = new Context()) 
             {
                 var usuarioAlteracao = context.Usuario.SingleOrDefault(u => u.UserID == usuarioExistente.FirstOrDefault().UserID);
 
@@ -128,7 +129,7 @@ namespace Begin5.Controllers
 
         private async Task<List<Usuario>> BuscarUsuarioUserID(string userId)
         {
-            using (var context = new UsuarioContext())
+            using (var context = new Context())
             {
                 var usuarioExistente = context.Usuario.Where(u => u.UserID == userId).ToList();
 
@@ -138,7 +139,7 @@ namespace Begin5.Controllers
 
         private async Task<List<Usuario>> BuscarUsuarioEmail(string email)
         {
-            using (var context = new UsuarioContext()) 
+            using (var context = new Context()) 
             {
                 var usuarioExistente = context.Usuario.Where(u => u.Email == email).ToList();
                 return (usuarioExistente);

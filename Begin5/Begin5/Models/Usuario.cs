@@ -7,10 +7,10 @@ namespace Begin5.Models
 {
     public class Usuario
     {
+        public int IDusuario { get; set; }
         public string UserID { get; private set; }
         public  string Email { get; private set; }
-
-        public int IDusuario { get; set; }
+               
 
         public static int UsuariosLogados { get; private set;}
 
