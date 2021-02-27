@@ -6616,11 +6616,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saulo.satel\\source\\repos\\Begin5\\Begin5\\Begin5.csproj",
+      "projectUniqueName": "C:\\Users\\saulo.satel\\source\\repos\\LearningDotNet\\Begin5\\Begin5\\Begin5.csproj",
       "projectName": "Begin5",
-      "projectPath": "C:\\Users\\saulo.satel\\source\\repos\\Begin5\\Begin5\\Begin5.csproj",
+      "projectPath": "C:\\Users\\saulo.satel\\source\\repos\\LearningDotNet\\Begin5\\Begin5\\Begin5.csproj",
       "packagesPath": "C:\\Users\\saulo.satel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saulo.satel\\source\\repos\\Begin5\\Begin5\\obj\\",
+      "outputPath": "C:\\Users\\saulo.satel\\source\\repos\\LearningDotNet\\Begin5\\Begin5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6702,7 +6702,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

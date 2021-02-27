@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ovy2eZQbMkdjb3oX2wzloOtjliJ/1xdB/NE920etUv0L6yYbmUXFs9VRluD5lN0M20LBWn4QV8NX1gF1mjXThA==",
+  "dgSpecHash": "JiJ+HjfdGD8y9zTXVG0njo5Ja/CXRo1rzASYDkjG9oomLBjsJyL2+cfQbL89wpD447Rp3bu421lQwz9YwpVUpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saulo.satel\\source\\repos\\Begin5\\Begin5\\Begin5.csproj",
+  "projectFilePath": "C:\\Users\\saulo.satel\\source\\repos\\LearningDotNet\\Begin5\\Begin5\\Begin5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saulo.satel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\saulo.satel\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
