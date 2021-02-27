@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\TesteSobreCarga\TesteSobreCarga\bin\Debug\TesteSobreCarga.exe.config
+C:\Users\saulo.satel\source\repos\TesteSobreCarga\TesteSobreCarga\bin\Debug\TesteSobreCarga.exe
+C:\Users\saulo.satel\source\repos\TesteSobreCarga\TesteSobreCarga\bin\Debug\TesteSobreCarga.pdb
+C:\Users\saulo.satel\source\repos\TesteSobreCarga\TesteSobreCarga\obj\Debug\TesteSobreCarga.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\TesteSobreCarga\TesteSobreCarga\obj\Debug\TesteSobreCarga.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\TesteSobreCarga\TesteSobreCarga\obj\Debug\TesteSobreCarga.exe
+C:\Users\saulo.satel\source\repos\TesteSobreCarga\TesteSobreCarga\obj\Debug\TesteSobreCarga.pdb

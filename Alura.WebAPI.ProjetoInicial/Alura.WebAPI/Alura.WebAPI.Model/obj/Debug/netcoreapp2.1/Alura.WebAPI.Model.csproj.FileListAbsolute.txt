@@ -1,0 +1,9 @@
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb

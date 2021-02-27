@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\TratarExcecoe\TratarExcecoe\bin\Debug\TratarExcecoe.exe.config
+C:\Users\saulo.satel\source\repos\TratarExcecoe\TratarExcecoe\bin\Debug\TratarExcecoe.exe
+C:\Users\saulo.satel\source\repos\TratarExcecoe\TratarExcecoe\bin\Debug\TratarExcecoe.pdb
+C:\Users\saulo.satel\source\repos\TratarExcecoe\TratarExcecoe\obj\Debug\TratarExcecoe.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\TratarExcecoe\TratarExcecoe\obj\Debug\TratarExcecoe.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\TratarExcecoe\TratarExcecoe\obj\Debug\TratarExcecoe.exe
+C:\Users\saulo.satel\source\repos\TratarExcecoe\TratarExcecoe\obj\Debug\TratarExcecoe.pdb

@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\WhileTeste\WhileTestingCounter\bin\Debug\WhileTestingCounter.exe.config
+C:\Users\saulo.satel\source\repos\WhileTeste\WhileTestingCounter\bin\Debug\WhileTestingCounter.exe
+C:\Users\saulo.satel\source\repos\WhileTeste\WhileTestingCounter\bin\Debug\WhileTestingCounter.pdb
+C:\Users\saulo.satel\source\repos\WhileTeste\WhileTestingCounter\obj\Debug\WhileTestingCounter.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\WhileTeste\WhileTestingCounter\obj\Debug\WhileTestingCounter.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\WhileTeste\WhileTestingCounter\obj\Debug\WhileTestingCounter.exe
+C:\Users\saulo.satel\source\repos\WhileTeste\WhileTestingCounter\obj\Debug\WhileTestingCounter.pdb

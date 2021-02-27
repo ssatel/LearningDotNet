@@ -1,0 +1,12 @@
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.deps.json
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfoInputs.cache
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfo.cs
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CopyComplete
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\saulo.satel\source\repos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb

@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\ImplementarMetodo\ImplementarMetodo\bin\Debug\ImplementarMetodo.exe.config
+C:\Users\saulo.satel\source\repos\ImplementarMetodo\ImplementarMetodo\bin\Debug\ImplementarMetodo.exe
+C:\Users\saulo.satel\source\repos\ImplementarMetodo\ImplementarMetodo\bin\Debug\ImplementarMetodo.pdb
+C:\Users\saulo.satel\source\repos\ImplementarMetodo\ImplementarMetodo\obj\Debug\ImplementarMetodo.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\ImplementarMetodo\ImplementarMetodo\obj\Debug\ImplementarMetodo.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\ImplementarMetodo\ImplementarMetodo\obj\Debug\ImplementarMetodo.exe
+C:\Users\saulo.satel\source\repos\ImplementarMetodo\ImplementarMetodo\obj\Debug\ImplementarMetodo.pdb

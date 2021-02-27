@@ -1,0 +1,6 @@
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\TesteVariable\bin\Debug\TesteVariable.exe.config
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\TesteVariable\bin\Debug\TesteVariable.exe
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\TesteVariable\bin\Debug\TesteVariable.pdb
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\TesteVariable\obj\Debug\TesteVariable.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\TesteVariable\obj\Debug\TesteVariable.exe
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\TesteVariable\obj\Debug\TesteVariable.pdb

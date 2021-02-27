@@ -1,0 +1,6 @@
+C:\Users\saulo.satel\source\repos\ConditionalTest\SwitchTest\bin\Debug\SwitchTest.exe.config
+C:\Users\saulo.satel\source\repos\ConditionalTest\SwitchTest\bin\Debug\SwitchTest.exe
+C:\Users\saulo.satel\source\repos\ConditionalTest\SwitchTest\bin\Debug\SwitchTest.pdb
+C:\Users\saulo.satel\source\repos\ConditionalTest\SwitchTest\obj\Debug\SwitchTest.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\ConditionalTest\SwitchTest\obj\Debug\SwitchTest.exe
+C:\Users\saulo.satel\source\repos\ConditionalTest\SwitchTest\obj\Debug\SwitchTest.pdb

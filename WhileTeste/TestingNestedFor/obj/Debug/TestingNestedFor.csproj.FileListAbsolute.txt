@@ -1,0 +1,6 @@
+C:\Users\saulo.satel\source\repos\WhileTeste\TestingNestedFor\bin\Debug\TestingNestedFor.exe.config
+C:\Users\saulo.satel\source\repos\WhileTeste\TestingNestedFor\bin\Debug\TestingNestedFor.exe
+C:\Users\saulo.satel\source\repos\WhileTeste\TestingNestedFor\bin\Debug\TestingNestedFor.pdb
+C:\Users\saulo.satel\source\repos\WhileTeste\TestingNestedFor\obj\Debug\TestingNestedFor.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\WhileTeste\TestingNestedFor\obj\Debug\TestingNestedFor.exe
+C:\Users\saulo.satel\source\repos\WhileTeste\TestingNestedFor\obj\Debug\TestingNestedFor.pdb

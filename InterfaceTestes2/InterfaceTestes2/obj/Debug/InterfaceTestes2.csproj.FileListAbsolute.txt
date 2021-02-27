@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\InterfaceTestes2\InterfaceTestes2\bin\Debug\InterfaceTestes2.exe.config
+C:\Users\saulo.satel\source\repos\InterfaceTestes2\InterfaceTestes2\bin\Debug\InterfaceTestes2.exe
+C:\Users\saulo.satel\source\repos\InterfaceTestes2\InterfaceTestes2\bin\Debug\InterfaceTestes2.pdb
+C:\Users\saulo.satel\source\repos\InterfaceTestes2\InterfaceTestes2\obj\Debug\InterfaceTestes2.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\InterfaceTestes2\InterfaceTestes2\obj\Debug\InterfaceTestes2.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\InterfaceTestes2\InterfaceTestes2\obj\Debug\InterfaceTestes2.exe
+C:\Users\saulo.satel\source\repos\InterfaceTestes2\InterfaceTestes2\obj\Debug\InterfaceTestes2.pdb

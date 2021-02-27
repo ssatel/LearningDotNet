@@ -1,0 +1,6 @@
+C:\Users\saulo.satel\source\repos\ConditionalTest\ConditionalTest2\bin\Debug\ConditionalTest2.exe.config
+C:\Users\saulo.satel\source\repos\ConditionalTest\ConditionalTest2\bin\Debug\ConditionalTest2.exe
+C:\Users\saulo.satel\source\repos\ConditionalTest\ConditionalTest2\bin\Debug\ConditionalTest2.pdb
+C:\Users\saulo.satel\source\repos\ConditionalTest\ConditionalTest2\obj\Debug\ConditionalTest2.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\ConditionalTest\ConditionalTest2\obj\Debug\ConditionalTest2.exe
+C:\Users\saulo.satel\source\repos\ConditionalTest\ConditionalTest2\obj\Debug\ConditionalTest2.pdb

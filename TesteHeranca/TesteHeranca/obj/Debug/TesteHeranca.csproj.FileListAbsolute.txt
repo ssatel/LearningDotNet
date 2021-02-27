@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\TesteHeranca\TesteHeranca\bin\Debug\TesteHeranca.exe.config
+C:\Users\saulo.satel\source\repos\TesteHeranca\TesteHeranca\bin\Debug\TesteHeranca.exe
+C:\Users\saulo.satel\source\repos\TesteHeranca\TesteHeranca\bin\Debug\TesteHeranca.pdb
+C:\Users\saulo.satel\source\repos\TesteHeranca\TesteHeranca\obj\Debug\TesteHeranca.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\TesteHeranca\TesteHeranca\obj\Debug\TesteHeranca.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\TesteHeranca\TesteHeranca\obj\Debug\TesteHeranca.exe
+C:\Users\saulo.satel\source\repos\TesteHeranca\TesteHeranca\obj\Debug\TesteHeranca.pdb

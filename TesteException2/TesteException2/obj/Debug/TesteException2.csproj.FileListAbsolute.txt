@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\TesteException2\TesteException2\bin\Debug\TesteException2.exe.config
+C:\Users\saulo.satel\source\repos\TesteException2\TesteException2\bin\Debug\TesteException2.exe
+C:\Users\saulo.satel\source\repos\TesteException2\TesteException2\bin\Debug\TesteException2.pdb
+C:\Users\saulo.satel\source\repos\TesteException2\TesteException2\obj\Debug\TesteException2.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\TesteException2\TesteException2\obj\Debug\TesteException2.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\TesteException2\TesteException2\obj\Debug\TesteException2.exe
+C:\Users\saulo.satel\source\repos\TesteException2\TesteException2\obj\Debug\TesteException2.pdb

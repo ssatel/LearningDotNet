@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\TesteConstrutores\TesteConstrutores\obj\Debug\TesteConstrutores.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\TesteConstrutores\TesteConstrutores\obj\Debug\TesteConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\TesteConstrutores\TesteConstrutores\bin\Debug\TesteConstrutores.exe.config
+C:\Users\saulo.satel\source\repos\TesteConstrutores\TesteConstrutores\bin\Debug\TesteConstrutores.exe
+C:\Users\saulo.satel\source\repos\TesteConstrutores\TesteConstrutores\bin\Debug\TesteConstrutores.pdb
+C:\Users\saulo.satel\source\repos\TesteConstrutores\TesteConstrutores\obj\Debug\TesteConstrutores.exe
+C:\Users\saulo.satel\source\repos\TesteConstrutores\TesteConstrutores\obj\Debug\TesteConstrutores.pdb

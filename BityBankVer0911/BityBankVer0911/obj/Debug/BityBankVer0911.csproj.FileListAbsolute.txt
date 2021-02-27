@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\BityBankVer0911\BityBankVer0911\obj\Debug\BityBankVer0911.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\BityBankVer0911\BityBankVer0911\obj\Debug\BityBankVer0911.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\BityBankVer0911\BityBankVer0911\bin\Debug\BityBankVer0911.exe.config
+C:\Users\saulo.satel\source\repos\BityBankVer0911\BityBankVer0911\bin\Debug\BityBankVer0911.exe
+C:\Users\saulo.satel\source\repos\BityBankVer0911\BityBankVer0911\bin\Debug\BityBankVer0911.pdb
+C:\Users\saulo.satel\source\repos\BityBankVer0911\BityBankVer0911\obj\Debug\BityBankVer0911.exe
+C:\Users\saulo.satel\source\repos\BityBankVer0911\BityBankVer0911\obj\Debug\BityBankVer0911.pdb

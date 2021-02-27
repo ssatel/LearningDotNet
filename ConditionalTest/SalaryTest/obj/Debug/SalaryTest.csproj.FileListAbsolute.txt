@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\ConditionalTest\SalaryTest\bin\Debug\SalaryTest.exe.config
+C:\Users\saulo.satel\source\repos\ConditionalTest\SalaryTest\bin\Debug\SalaryTest.exe
+C:\Users\saulo.satel\source\repos\ConditionalTest\SalaryTest\bin\Debug\SalaryTest.pdb
+C:\Users\saulo.satel\source\repos\ConditionalTest\SalaryTest\obj\Debug\SalaryTest.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\ConditionalTest\SalaryTest\obj\Debug\SalaryTest.exe
+C:\Users\saulo.satel\source\repos\ConditionalTest\SalaryTest\obj\Debug\SalaryTest.pdb
+C:\Users\saulo.satel\source\repos\ConditionalTest\SalaryTest\obj\Debug\SalaryTest.csprojAssemblyReference.cache

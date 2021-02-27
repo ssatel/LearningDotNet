@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\ConditionalTest\EscopeVariable\obj\Debug\EscopeVariable.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\ConditionalTest\EscopeVariable\obj\Debug\EscopeVariable.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\ConditionalTest\EscopeVariable\bin\Debug\EscopeVariable.exe.config
+C:\Users\saulo.satel\source\repos\ConditionalTest\EscopeVariable\bin\Debug\EscopeVariable.exe
+C:\Users\saulo.satel\source\repos\ConditionalTest\EscopeVariable\bin\Debug\EscopeVariable.pdb
+C:\Users\saulo.satel\source\repos\ConditionalTest\EscopeVariable\obj\Debug\EscopeVariable.exe
+C:\Users\saulo.satel\source\repos\ConditionalTest\EscopeVariable\obj\Debug\EscopeVariable.pdb

@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\BankBityNew\BankBityNew\bin\Debug\BankBityNew.exe.config
+C:\Users\saulo.satel\source\repos\BankBityNew\BankBityNew\bin\Debug\BankBityNew.exe
+C:\Users\saulo.satel\source\repos\BankBityNew\BankBityNew\bin\Debug\BankBityNew.pdb
+C:\Users\saulo.satel\source\repos\BankBityNew\BankBityNew\obj\Debug\BankBityNew.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\BankBityNew\BankBityNew\obj\Debug\BankBityNew.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\BankBityNew\BankBityNew\obj\Debug\BankBityNew.exe
+C:\Users\saulo.satel\source\repos\BankBityNew\BankBityNew\obj\Debug\BankBityNew.pdb

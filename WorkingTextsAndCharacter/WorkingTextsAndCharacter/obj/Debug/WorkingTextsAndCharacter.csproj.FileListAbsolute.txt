@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\WorkingTextsAndCharacter\bin\Debug\WorkingTextsAndCharacter.exe.config
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\WorkingTextsAndCharacter\bin\Debug\WorkingTextsAndCharacter.exe
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\WorkingTextsAndCharacter\bin\Debug\WorkingTextsAndCharacter.pdb
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\WorkingTextsAndCharacter\obj\Debug\WorkingTextsAndCharacter.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\WorkingTextsAndCharacter\obj\Debug\WorkingTextsAndCharacter.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\WorkingTextsAndCharacter\obj\Debug\WorkingTextsAndCharacter.exe
+C:\Users\saulo.satel\source\repos\WorkingTextsAndCharacter\WorkingTextsAndCharacter\obj\Debug\WorkingTextsAndCharacter.pdb

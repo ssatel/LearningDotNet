@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\Tabuada\Multiplus3\bin\Debug\Multiplus3.exe.config
+C:\Users\saulo.satel\source\repos\Tabuada\Multiplus3\bin\Debug\Multiplus3.exe
+C:\Users\saulo.satel\source\repos\Tabuada\Multiplus3\bin\Debug\Multiplus3.pdb
+C:\Users\saulo.satel\source\repos\Tabuada\Multiplus3\obj\Debug\Multiplus3.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\Tabuada\Multiplus3\obj\Debug\Multiplus3.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\Tabuada\Multiplus3\obj\Debug\Multiplus3.exe
+C:\Users\saulo.satel\source\repos\Tabuada\Multiplus3\obj\Debug\Multiplus3.pdb

@@ -1,0 +1,6 @@
+C:\Users\saulo.satel\source\repos\Tabuada\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\Tabuada\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\saulo.satel\source\repos\Tabuada\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\saulo.satel\source\repos\Tabuada\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\saulo.satel\source\repos\Tabuada\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\saulo.satel\source\repos\Tabuada\Fatorial\obj\Debug\Fatorial.pdb

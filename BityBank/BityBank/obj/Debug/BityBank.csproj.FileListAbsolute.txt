@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\BityBank\BityBank\bin\Debug\BityBank.exe.config
+C:\Users\saulo.satel\source\repos\BityBank\BityBank\bin\Debug\BityBank.exe
+C:\Users\saulo.satel\source\repos\BityBank\BityBank\bin\Debug\BityBank.pdb
+C:\Users\saulo.satel\source\repos\BityBank\BityBank\obj\Debug\BityBank.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\BityBank\BityBank\obj\Debug\BityBank.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\BityBank\BityBank\obj\Debug\BityBank.exe
+C:\Users\saulo.satel\source\repos\BityBank\BityBank\obj\Debug\BityBank.pdb

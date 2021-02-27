@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\LogarSistemaInterno\LogarSistemaInterno\obj\Debug\LogarSistemaInterno.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\LogarSistemaInterno\LogarSistemaInterno\obj\Debug\LogarSistemaInterno.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\LogarSistemaInterno\LogarSistemaInterno\bin\Debug\LogarSistemaInterno.exe.config
+C:\Users\saulo.satel\source\repos\LogarSistemaInterno\LogarSistemaInterno\bin\Debug\LogarSistemaInterno.exe
+C:\Users\saulo.satel\source\repos\LogarSistemaInterno\LogarSistemaInterno\bin\Debug\LogarSistemaInterno.pdb
+C:\Users\saulo.satel\source\repos\LogarSistemaInterno\LogarSistemaInterno\obj\Debug\LogarSistemaInterno.exe
+C:\Users\saulo.satel\source\repos\LogarSistemaInterno\LogarSistemaInterno\obj\Debug\LogarSistemaInterno.pdb

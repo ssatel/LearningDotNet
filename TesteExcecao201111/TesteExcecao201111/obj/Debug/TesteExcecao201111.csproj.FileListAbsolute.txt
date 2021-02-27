@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\TesteExcecao201111\TesteExcecao201111\bin\Debug\TesteExcecao201111.exe.config
+C:\Users\saulo.satel\source\repos\TesteExcecao201111\TesteExcecao201111\bin\Debug\TesteExcecao201111.exe
+C:\Users\saulo.satel\source\repos\TesteExcecao201111\TesteExcecao201111\bin\Debug\TesteExcecao201111.pdb
+C:\Users\saulo.satel\source\repos\TesteExcecao201111\TesteExcecao201111\obj\Debug\TesteExcecao201111.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\TesteExcecao201111\TesteExcecao201111\obj\Debug\TesteExcecao201111.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\TesteExcecao201111\TesteExcecao201111\obj\Debug\TesteExcecao201111.exe
+C:\Users\saulo.satel\source\repos\TesteExcecao201111\TesteExcecao201111\obj\Debug\TesteExcecao201111.pdb

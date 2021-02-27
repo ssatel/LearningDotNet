@@ -1,0 +1,6 @@
+C:\Users\saulo.satel\source\repos\WhileTeste\TetinsNestedForBreak\bin\Debug\TetinsNestedForBreak.exe.config
+C:\Users\saulo.satel\source\repos\WhileTeste\TetinsNestedForBreak\bin\Debug\TetinsNestedForBreak.exe
+C:\Users\saulo.satel\source\repos\WhileTeste\TetinsNestedForBreak\bin\Debug\TetinsNestedForBreak.pdb
+C:\Users\saulo.satel\source\repos\WhileTeste\TetinsNestedForBreak\obj\Debug\TetinsNestedForBreak.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\WhileTeste\TetinsNestedForBreak\obj\Debug\TetinsNestedForBreak.exe
+C:\Users\saulo.satel\source\repos\WhileTeste\TetinsNestedForBreak\obj\Debug\TetinsNestedForBreak.pdb

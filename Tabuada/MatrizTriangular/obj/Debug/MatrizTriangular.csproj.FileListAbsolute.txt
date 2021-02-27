@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\Tabuada\MatrizTriangular\bin\Debug\MatrizTriangular.exe.config
+C:\Users\saulo.satel\source\repos\Tabuada\MatrizTriangular\bin\Debug\MatrizTriangular.exe
+C:\Users\saulo.satel\source\repos\Tabuada\MatrizTriangular\bin\Debug\MatrizTriangular.pdb
+C:\Users\saulo.satel\source\repos\Tabuada\MatrizTriangular\obj\Debug\MatrizTriangular.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\Tabuada\MatrizTriangular\obj\Debug\MatrizTriangular.exe
+C:\Users\saulo.satel\source\repos\Tabuada\MatrizTriangular\obj\Debug\MatrizTriangular.pdb
+C:\Users\saulo.satel\source\repos\Tabuada\MatrizTriangular\obj\Debug\MatrizTriangular.csprojAssemblyReference.cache

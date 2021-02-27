@@ -1,0 +1,38 @@
+﻿<form id="saveOperacaoForm" method="post">
+    <h3>Multiplicação de Numeros</h3>
+    <p>
+        <label for="Numero1">Numero:</label>
+        <input type="number" name="Numero1" />
+    </p>
+    <p>
+        <label for="Numero2">Numero:</label>
+        <input type="number" name="Numero2" />
+    </p>
+    <input type="button" id="saveOperacao" value="Save" />
+</form>
+<form>
+    <h4>Memoria de Cálculo</h4>
+    <div id="body">
+        <ul id="operacao"></ul>
+    </div>
+</form>
+    @section scripts{
+        <script type="text/javascript">
+            $(function () {
+                $.getJSON('/api/OperacaoMatematica', function (operacaoJsonPayload) {
+                    $(operacaoJsonPayload).each(function (i, item) {
+                        $('#operacao').append('<li>' + item.Numero1 + " x " + item.Numero2 + " = " + item.Resultado + '</li>');
+                    });
+                });
+            });
+            $('#saveOperacao').click(function () {
+                $.post('/api/OperacaoMatematica',
+                    $("#saveOperacaoForm").serialize(),
+                    function (value) {
+                        $('#operacao').append('<li>' + value.Numero1 + " x " + value.Numero2 + " = " + value.Resultado + '</li>');
+                    },
+                    "json"
+                );
+            });
+        </script>
+    }

@@ -1,0 +1,7 @@
+C:\Users\saulo.satel\source\repos\WhileTeste\ForTesting\bin\Debug\ForTesting.exe.config
+C:\Users\saulo.satel\source\repos\WhileTeste\ForTesting\bin\Debug\ForTesting.exe
+C:\Users\saulo.satel\source\repos\WhileTeste\ForTesting\bin\Debug\ForTesting.pdb
+C:\Users\saulo.satel\source\repos\WhileTeste\ForTesting\obj\Debug\ForTesting.csprojAssemblyReference.cache
+C:\Users\saulo.satel\source\repos\WhileTeste\ForTesting\obj\Debug\ForTesting.csproj.CoreCompileInputs.cache
+C:\Users\saulo.satel\source\repos\WhileTeste\ForTesting\obj\Debug\ForTesting.exe
+C:\Users\saulo.satel\source\repos\WhileTeste\ForTesting\obj\Debug\ForTesting.pdb
