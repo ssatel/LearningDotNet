@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Begin5.Infra;
 using Begin5.Models;
+using Begin5.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -25,15 +26,15 @@ namespace Begin5.Controllers
         [HttpPost("CriarUsuario")]
         public async Task<IActionResult> CriarUsuario(UsuarioRequestDTO usuario)
         {
-            var usuarioExistente = await BuscarUsuarioEmail(usuario.Email);
-            if (usuarioExistente.Count != 0)
+            var usuarioExistente = await UsuarioService.BuscarUsuarioEmail(usuario.Email);
+            if (usuarioExistente == null)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, "Ja existe um usuario com este email");
             }
 
-            usuarioExistente = await BuscarUsuarioUserID(usuario.UserID);
+            usuarioExistente = await UsuarioService.BuscarUsuarioUserId(usuario.UserID);
 
-            if (usuarioExistente.Count != 0)
+            if (usuarioExistente == null)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, "Ja existe um usuario com este UserID");
             }
@@ -77,23 +78,23 @@ namespace Begin5.Controllers
         public async Task<IActionResult> AlterarEmailUsuario(UsuarioRequestDTO usuario)
         {
 
-            var usuarioExistente = await BuscarUsuarioUserID(usuario.UserID);
+            var usuarioExistente = await UsuarioService.BuscarUsuarioUserId(usuario.UserID);
 
-            if (usuarioExistente.Count == 0)
+            if (usuarioExistente == null)
             {
                 return StatusCode(StatusCodes.Status404NotFound, "Usuario não encontrado");
             }
 
-            var EmailExistente = await BuscarUsuarioEmail(usuario.Email);
+            var EmailExistente = await UsuarioService.BuscarUsuarioEmail(usuario.Email);
 
-            if (EmailExistente.Count != 0)
+            if (EmailExistente == null)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, "Este e-mail ja esta em uso");
             }
 
             using (var context = new Context()) 
             {
-                var usuarioAlteracao = context.Usuario.SingleOrDefault(u => u.UserID == usuarioExistente.FirstOrDefault().UserID);
+                var usuarioAlteracao = context.Usuario.SingleOrDefault(u => u.UserID == usuarioExistente.UserID);
 
                 usuarioAlteracao.AtualizarEmail(usuario.Email);
 
@@ -113,39 +114,18 @@ namespace Begin5.Controllers
         {
             var usuarioExistente = new List<UsuarioResponseDTO>();
 
-            var usuario = await BuscarUsuarioUserID(userId);
+            var usuario = await UsuarioService.BuscarUsuarioUserId(userId);
 
-            if (usuario.Count == 0)
+            if (usuario == null)
             {
                 return StatusCode(StatusCodes.Status404NotFound, "Usuario não encontrado");
             }
 
-            foreach (Usuario u in usuario)
-            {
-                usuarioExistente.Add(new UsuarioResponseDTO(u.UserID, u.Email, u.IDusuario));
-            }
+            usuarioExistente.Add(new UsuarioResponseDTO(usuario.UserID, usuario.Email, usuario.IDusuario));
+            
             return Ok(usuarioExistente.ToArray());
         }
-
-        private async Task<List<Usuario>> BuscarUsuarioUserID(string userId)
-        {
-            using (var context = new Context())
-            {
-                var usuarioExistente = context.Usuario.Where(u => u.UserID == userId).ToList();
-
-                return (usuarioExistente);
-            }
-        }
-
-        private async Task<List<Usuario>> BuscarUsuarioEmail(string email)
-        {
-            using (var context = new Context()) 
-            {
-                var usuarioExistente = context.Usuario.Where(u => u.Email == email).ToList();
-                return (usuarioExistente);
-            }
-
-        }
+                
 
     }
 }

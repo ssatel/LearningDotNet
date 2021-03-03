@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 namespace Begin5.Models
 {
     
-    public class Conta
+    public class Conta 
     {
-        private Usuario Titular { get; set; }
+       
+        public virtual Usuario Titular { get; set; }
         public int NumeroConta { get; set; }
         private double Saldo { get; set; }
 

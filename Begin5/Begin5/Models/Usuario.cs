@@ -1,14 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace Begin5.Models
 {
     public class Usuario
     {
+        
+        [KeyAttribute]
+        public string UserID { get; set; }
+
+        [JsonIgnore]
         public int IDusuario { get; set; }
-        public string UserID { get; private set; }
         public  string Email { get; private set; }
                
 

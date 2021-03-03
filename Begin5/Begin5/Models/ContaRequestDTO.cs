@@ -7,6 +7,7 @@ namespace Begin5.Models
 {
     public class ContaRequestDTO
     {
+        public virtual Usuario Titular { get; set; }
         public int NumeroConta { get; set; }
         public double Saldo { get; set; }
     }

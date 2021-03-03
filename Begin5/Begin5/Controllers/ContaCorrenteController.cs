@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Begin5.Exceptions;
 using AutoMapper;
+using Begin5.Infra;
 
 namespace Begin5.Controllers
 {
@@ -27,15 +28,27 @@ namespace Begin5.Controllers
         [HttpPost("Criar")]
         public async Task<IActionResult> CriarConta(ContaRequestDTO contaDTO)
         {
-            try
+            using (var context = new Context())
             {
                 var contaAux = _mapper.Map<Conta>(contaDTO);
 
-                contaAtiva = contaAux;
-            }
-            catch (ContaException ex)
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+                
+
+                context.Database.EnsureCreated();
+                try
+                {
+
+                   // var usuarioExistente = await BuscarUsuarioUserId(contaDTO.Titular.UserID);
+
+                    var novaConta = new Conta(contaAux.Titular, contaAux.NumeroConta, 0);
+                    context.Conta.Add(novaConta);
+                    context.SaveChanges();
+
+                }
+                catch (ContaException ex)
+                {
+                    return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+                }
             }
                        
             return Ok();
