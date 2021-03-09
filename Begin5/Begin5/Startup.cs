@@ -39,7 +39,7 @@ namespace Begin5
             { 
                 cfg.CreateMap<Usuario, UsuarioResponseDTO>().ReverseMap();
                 cfg.CreateMap<UsuarioRequestDTO, UsuarioResponseDTO>().ReverseMap();
-                cfg.CreateMap<Conta, ContaRequestDTO>().ReverseMap();
+                cfg.CreateMap<ContaRepository, ContaRequestDTO>().ReverseMap();
                 
             });
 

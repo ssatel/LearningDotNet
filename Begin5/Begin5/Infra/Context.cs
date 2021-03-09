@@ -9,7 +9,7 @@ namespace Begin5.Infra
 {
     public class Context : DbContext
     {
-        public DbSet<Conta> Conta {get;set;}
+        public DbSet<ContaRepository> Conta {get;set;}
 
         public DbSet<Usuario> Usuario { get; set;}
 
@@ -22,7 +22,7 @@ namespace Begin5.Infra
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<Conta>(entity =>
+            modelBuilder.Entity<ContaRepository>(entity =>
             {
                 entity.HasKey(c => c.NumeroConta);
                 entity.Property(c => c.NumeroConta).IsRequired();

@@ -16,7 +16,7 @@ namespace Begin5.Controllers
     
     public class ContaCorrenteController : ControllerBase
     {
-        public static Conta contaAtiva = null;
+        public static ContaRepository contaAtiva = null;
 
         IMapper _mapper;
 
@@ -30,17 +30,14 @@ namespace Begin5.Controllers
         {
             using (var context = new Context())
             {
-                var contaAux = _mapper.Map<Conta>(contaDTO);
-
-                
+                var contaAux = _mapper.Map<ContaRepository>(contaDTO);
 
                 context.Database.EnsureCreated();
                 try
                 {
 
-                   // var usuarioExistente = await BuscarUsuarioUserId(contaDTO.Titular.UserID);
-
-                    var novaConta = new Conta(contaAux.Titular, contaAux.NumeroConta, 0);
+                   
+                    var novaConta = new ContaApplication(contaAux.Titular.id, contaAux.NumeroConta, 0);
                     context.Conta.Add(novaConta);
                     context.SaveChanges();
 

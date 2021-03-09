@@ -1,4 +1,5 @@
-﻿using Begin5.Exceptions;
+﻿using Begin5.Application;
+using Begin5.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,16 +8,17 @@ using System.Threading.Tasks;
 namespace Begin5.Models
 {
     
-    public class Conta 
+    public class ContaRepository : IConta
     {
        
-        public virtual Usuario Titular { get; set; }
+        public int IdConta { get; set; }
+        public string UserID { get; set; }
         public int NumeroConta { get; set; }
         private double Saldo { get; set; }
 
-        public Conta() { }
+        public ContaRepository() { }
                 
-        public Conta(Usuario titular, int numeroConta, double saldoInicial)
+        public void CriarConta(int titular, int numeroConta, double saldoInicial)
         {
             if (numeroConta == 0)
             {
@@ -28,7 +30,7 @@ namespace Begin5.Models
                 throw new ContaException("O Saldo inicial não pode ser negativo");
             }
 
-            Titular = titular;
+            
             NumeroConta = numeroConta;
             Saldo = saldoInicial;
         }
