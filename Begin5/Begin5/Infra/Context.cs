@@ -1,28 +1,28 @@
-﻿using Begin5.Models;
+﻿using Begin5.Entidades;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Begin5.Infra
 {
     public class Context : DbContext
     {
-        public DbSet<ContaRepository> Conta {get;set;}
+        public Context(DbContextOptions options) : base(options)
+        {
+        }
+
+        public DbSet<Conta> Conta {get;set;}
 
         public DbSet<Usuario> Usuario { get; set;}
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseMySQL("server=localhost;database=new_schema;user=root;password=ml@Satel2014");
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        // //   optionsBuilder.UseMySQL("server=localhost;database=new_schema;user=root;password=ml@Satel2014");
+        //}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<ContaRepository>(entity =>
+            modelBuilder.Entity<Conta>(entity =>
             {
                 entity.HasKey(c => c.NumeroConta);
                 entity.Property(c => c.NumeroConta).IsRequired();

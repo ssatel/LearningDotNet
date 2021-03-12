@@ -1,7 +1,8 @@
 ﻿using AutoMapper;
+using Begin5.Application;
+using Begin5.Entidades;
 using Begin5.Infra;
 using Begin5.Models;
-using Begin5.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -26,37 +27,37 @@ namespace Begin5.Controllers
         [HttpPost("CriarUsuario")]
         public async Task<IActionResult> CriarUsuario(UsuarioRequestDTO usuario)
         {
-            var usuarioExistente = await UsuarioService.BuscarUsuarioEmail(usuario.Email);
-            if (usuarioExistente == null)
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError, "Ja existe um usuario com este email");
-            }
+            //var usuarioExistente = await UsuarioApplication.BuscarUsuarioEmail(usuario.Email);
+            //if (usuarioExistente == null)
+            //{
+            //    return StatusCode(StatusCodes.Status500InternalServerError, "Ja existe um usuario com este email");
+            //}
 
-            usuarioExistente = await UsuarioService.BuscarUsuarioUserId(usuario.UserID);
+            //usuarioExistente = await UsuarioApplication.BuscarUsuarioUserId(usuario.UserID);
 
-            if (usuarioExistente == null)
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError, "Ja existe um usuario com este UserID");
-            }
+            //if (usuarioExistente == null)
+            //{
+            //    return StatusCode(StatusCodes.Status500InternalServerError, "Ja existe um usuario com este UserID");
+            //}
 
-            using (var context = new Context())
-            {
-                var usuarioRetorno = _mapper.Map<UsuarioResponseDTO>(usuario);
+            //using (var context = new Context())
+            //{
+            //    var usuarioRetorno = _mapper.Map<UsuarioResponseDTO>(usuario);
 
-                context.Database.EnsureCreated();
-                try
-                {
-                    var novoUsuario = new Usuario(usuario.UserID, usuario.Email);
-                    context.Usuario.Add(novoUsuario);
-                    context.SaveChanges();
-                    usuarioRetorno.IDusuario = novoUsuario.IDusuario;
-                }
-                catch (Exception ex)
-                {
-                    return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
-                }
-                return Ok(usuarioRetorno);
-            }
+            //    context.Database.EnsureCreated();
+            //    try
+            //    {
+            //        var novoUsuario = new Usuario(usuario.UserID, usuario.Email);
+            //        context.Usuario.Add(novoUsuario);
+            //        context.SaveChanges();
+            //        usuarioRetorno.IDusuario = novoUsuario.IDusuario;
+            //    }
+            //    catch (Exception ex)
+            //    {
+            //        return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            //    }
+                return Ok();
+            //}
         }
         [HttpGet("List")]
         public async Task<IActionResult> ListarUsuario()
@@ -78,33 +79,33 @@ namespace Begin5.Controllers
         public async Task<IActionResult> AlterarEmailUsuario(UsuarioRequestDTO usuario)
         {
 
-            var usuarioExistente = await UsuarioService.BuscarUsuarioUserId(usuario.UserID);
+            //var usuarioExistente = await _usuario.BuscarUsuarioUserId(usuario.UserID);
 
-            if (usuarioExistente == null)
-            {
-                return StatusCode(StatusCodes.Status404NotFound, "Usuario não encontrado");
-            }
+            //if (usuarioExistente == null)
+            //{
+            //    return StatusCode(StatusCodes.Status404NotFound, "Usuario não encontrado");
+            //}
 
-            var EmailExistente = await UsuarioService.BuscarUsuarioEmail(usuario.Email);
+            //var EmailExistente = await UsuarioApplication.BuscarUsuarioEmail(usuario.Email);
 
-            if (EmailExistente == null)
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError, "Este e-mail ja esta em uso");
-            }
+            //if (EmailExistente == null)
+            //{
+            //    return StatusCode(StatusCodes.Status500InternalServerError, "Este e-mail ja esta em uso");
+            //}
 
-            using (var context = new Context()) 
-            {
-                var usuarioAlteracao = context.Usuario.SingleOrDefault(u => u.UserID == usuarioExistente.UserID);
+            //using (var context = new Context()) 
+            //{
+            //    var usuarioAlteracao = context.Usuario.SingleOrDefault(u => u.UserID == usuarioExistente.UserID);
 
-                usuarioAlteracao.AtualizarEmail(usuario.Email);
+            //    usuarioAlteracao.AtualizarEmail(usuario.Email);
 
-                context.Usuario.Attach(usuarioAlteracao);
+            //    context.Usuario.Attach(usuarioAlteracao);
 
-                context.Entry(usuarioAlteracao).State = EntityState.Modified;
+            //    context.Entry(usuarioAlteracao).State = EntityState.Modified;
 
-                context.SaveChanges();
+            //    context.SaveChanges();
 
-            }
+            //}
 
             return Ok();
         }
@@ -112,18 +113,18 @@ namespace Begin5.Controllers
         [HttpGet("BuscarUsuario")]
         public async Task<IActionResult> BuscarUsuario(string userId)
         {
-            var usuarioExistente = new List<UsuarioResponseDTO>();
+            //var usuarioExistente = new List<UsuarioResponseDTO>();
 
-            var usuario = await UsuarioService.BuscarUsuarioUserId(userId);
+            //var usuario = await UsuarioApplication.BuscarUsuarioUserId(userId);
 
-            if (usuario == null)
-            {
-                return StatusCode(StatusCodes.Status404NotFound, "Usuario não encontrado");
-            }
+            //if (usuario == null)
+            //{
+            //    return StatusCode(StatusCodes.Status404NotFound, "Usuario não encontrado");
+            //}
 
-            usuarioExistente.Add(new UsuarioResponseDTO(usuario.UserID, usuario.Email, usuario.IDusuario));
+            //usuarioExistente.Add(new UsuarioResponseDTO(usuario.UserID, usuario.Email, usuario.IDusuario));
             
-            return Ok(usuarioExistente.ToArray());
+            return Ok();
         }
                 
 

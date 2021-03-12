@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Http;
 using Begin5.Exceptions;
 using AutoMapper;
 using Begin5.Infra;
+using Begin5.Application.Interface;
+using Begin5.Entidades;
 
 namespace Begin5.Controllers
 {
@@ -16,44 +18,52 @@ namespace Begin5.Controllers
     
     public class ContaCorrenteController : ControllerBase
     {
-        public static ContaRepository contaAtiva = null;
+        public static Conta contaAtiva = null;
+        private readonly IMapper _mapper;
+        private readonly IContaApplication _contaApplication;
+        private readonly IUsuarioApplication _usuarioApplication;
 
-        IMapper _mapper;
 
-        public ContaCorrenteController(IMapper mapper)
+        public ContaCorrenteController(IMapper mapper, 
+                                       IContaApplication contaApplication,
+                                       IUsuarioApplication usuarioApplication)
         {
             _mapper = mapper;
+            _contaApplication = contaApplication;
+            _usuarioApplication = usuarioApplication;
         }
 
         [HttpPost("Criar")]
         public async Task<IActionResult> CriarConta(ContaRequestDTO contaDTO)
         {
-            using (var context = new Context())
-            {
-                var contaAux = _mapper.Map<ContaRepository>(contaDTO);
+            await _contaApplication.CriarConta(contaDTO.Titular, contaDTO.NumeroConta, 0);
 
-                context.Database.EnsureCreated();
-                try
-                {
 
-                   
-                    var novaConta = new ContaApplication(contaAux.Titular.id, contaAux.NumeroConta, 0);
-                    context.Conta.Add(novaConta);
-                    context.SaveChanges();
+            //_contaApplication.CriarConta()
 
-                }
-                catch (ContaException ex)
-                {
-                    return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
-                }
-            }
+            //using (var context = new Context())
+            //{
+            //    var contaAux = _mapper.Map<ContaRepository>(contaDTO);
+            //    context.Database.EnsureCreated();
+            //    try
+            //    {
+            //        var novaConta = new ContaRepository();                    
+            //        //novaConta.CriarConta(contaDTO.Titular, contaDTO.NumeroConta, 0);
+            //        context.Conta.Add(novaConta);
+            //        context.SaveChanges();
+            //    }
+            //    catch (ContaException ex)
+            //    {
+            //        return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            //    }
+            //}
+
                        
             return Ok();
         }
         [HttpPost("Sacar")]
         public async Task<IActionResult> Sacar([FromBody] double valor)
         {
-            
             try
             {
                 if (contaAtiva != null)
@@ -70,14 +80,12 @@ namespace Begin5.Controllers
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
             }
-
             return Ok();
         }
 
         [HttpPost("Depositar")]
         public async Task<IActionResult> Depositar([FromBody] double valor)
         {
-            
             try
             {
                 if (contaAtiva != null)
@@ -88,13 +96,11 @@ namespace Begin5.Controllers
                 {
                     return StatusCode(StatusCodes.Status500InternalServerError);
                 }
-
             }
             catch (ContaException ex)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
             }
-            
             return Ok();
         }
 
@@ -117,7 +123,6 @@ namespace Begin5.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
                 
             }
-            
         }
     }
 }

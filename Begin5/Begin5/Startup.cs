@@ -1,9 +1,16 @@
 using AutoMapper;
+using Begin5.Application;
+using Begin5.Application.Interface;
+using Begin5.Entidades;
+using Begin5.Infra;
 using Begin5.Models;
+using Begin5.Repository;
+using Begin5.Repository.Interface;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -28,6 +35,9 @@ namespace Begin5
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var mySqlConnection = "server=localhost;database=new_schema;user=root;password=ml@Satel2014"; //= Configuration.GetConnectionString("DeltaBridgeConnection");
+            
+            services.AddDbContext<Context>(option => option.UseMySQL(mySqlConnection));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
@@ -39,13 +49,20 @@ namespace Begin5
             { 
                 cfg.CreateMap<Usuario, UsuarioResponseDTO>().ReverseMap();
                 cfg.CreateMap<UsuarioRequestDTO, UsuarioResponseDTO>().ReverseMap();
-                cfg.CreateMap<ContaRepository, ContaRequestDTO>().ReverseMap();
-                
+                cfg.CreateMap<Conta, ContaRequestDTO>().ReverseMap();
+                cfg.CreateMap<Conta, ContaRequestDTO>().ReverseMap();
+
             });
 
             IMapper mapper = configuration.CreateMapper();
 
             services.AddSingleton(mapper);
+
+            services.AddScoped<IContaApplication, ContaApplication>();
+            services.AddScoped<IUsuarioApplication, UsuarioApplication>();
+            services.AddScoped<IContaRepository, ContaRepository>();
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

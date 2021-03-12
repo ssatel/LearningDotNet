@@ -1,29 +1,26 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
 using System.Text.Json.Serialization;
-using System.Threading.Tasks;
 
-namespace Begin5.Models
+namespace Begin5.Entidades
 {
     public class Usuario
     {
-        
-        [KeyAttribute]
+
+        [Key]
         public string UserID { get; set; }
 
         [JsonIgnore]
         public int IDusuario { get; set; }
-        public  string Email { get; private set; }
-               
+        public string Email { get; private set; }
 
-        public static int UsuariosLogados { get; private set;}
+
+        public static int UsuariosLogados { get; private set; }
 
         public int codigoAutenticador { get; private set; }
-                
+
         public Usuario() { }
-          
+
         public Usuario(string userId, string email)
         {
             UserID = userId;
@@ -33,7 +30,7 @@ namespace Begin5.Models
                                         DateTime.Now.Day +
                                         DateTime.Now.Hour +
                                         DateTime.Now.Minute +
-                                        DateTime.Now.Second) ;
+                                        DateTime.Now.Second);
 
             UsuariosLogados++;
 

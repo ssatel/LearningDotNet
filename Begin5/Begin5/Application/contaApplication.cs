@@ -1,30 +1,40 @@
-﻿using System;
+﻿using Begin5.Application.Interface;
+using Begin5.Entidades;
+using Begin5.Repository.Interface;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace Begin5.Application
 {
-    public class contaApplication : IConta
+    public class ContaApplication : IContaApplication
     {
-        public void CriarConta(int titular, int numeroConta, double saldoInicial)
+        private readonly IContaRepository _contaRepository;
+        public ContaApplication(IContaRepository contaRepository)
+        {
+            _contaRepository = contaRepository;
+        }
+
+        public async Task Depositar(double valor)
         {
             throw new NotImplementedException();
         }
 
-        void IConta.Depositar(double valor)
+        public async Task<double> GetSaldo()
         {
             throw new NotImplementedException();
         }
 
-        double IConta.GetSaldo()
+        public async Task Sacar(double valor)
         {
             throw new NotImplementedException();
         }
 
-        void IConta.Sacar(double valor)
+        public async Task CriarConta(string titular, int numeroConta, double saldoInicial)
         {
-            throw new NotImplementedException();
+            await _contaRepository.CriarConta(new Conta() { UserID = titular, NumeroConta = numeroConta, Saldo = saldoInicial });
+                      
         }
     }
 }
